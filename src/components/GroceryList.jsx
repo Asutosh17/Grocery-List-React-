@@ -8,5 +8,4 @@ const TodoList = ({todos, handleDelete}) => {
         </div>
     );
 };
-
 export default TodoList;
