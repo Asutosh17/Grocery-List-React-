@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.badadiv{
+  margin-top:20px;
+}
+.todolist{
+  margin:10px;
+}
+.btn{
+  padding:2px 5px;
+}

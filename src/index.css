@@ -11,24 +11,3 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-
-.counter {
-  color: teal;
-  font-size: 30px;
-  width:50%;
-  margin: auto;
-  margin-top: 3%;
-  padding:20px;
-  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-}
-.btn  > button{
-  border: none;
-  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-  margin: 20px;
-  padding: 10px 25px;
-  background-color:rgb(114, 173, 184);
-  color: white;
-  font-weight: bold;
-  margin-top: 3%;
-  border-radius:10px;
-}
