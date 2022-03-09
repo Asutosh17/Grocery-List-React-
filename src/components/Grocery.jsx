@@ -23,7 +23,7 @@ const Todo = () => {
         <div>
             <GroceryInput data = {recievedata}/>
             {todo.map((e) => (
-                    <GroceryList todos = {e} handleDelete = {handleDelete}/>
+                    <GroceryList todos = {e} key = {e.id} handleDelete = {handleDelete}/>
             ))}
         </div>
     );

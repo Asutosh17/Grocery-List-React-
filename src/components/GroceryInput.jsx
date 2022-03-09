@@ -6,7 +6,7 @@ function TodoInput({data}) {
     const [state, setState] = useState("")
     return (
         <div>
-            <h1>ToDo List</h1>
+            <h1>Grocery List</h1>
             <input type="text" onChange={(e) => {
                    setState(e.target.value)
             }}/>
